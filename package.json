@@ -1,19 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "portfolio",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "react-router-dom": "^5.2.0"
-=======
   "name": "tabi_profile",
   "version": "0.1.0",
   "private": true,
@@ -31,6 +16,5 @@
   "devDependencies": {
     "eslint": "8.23.0",
     "eslint-config-next": "12.2.5"
->>>>>>> e4440e4 (Initial commit from Create Next App)
   }
 }
